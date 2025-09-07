@@ -24,7 +24,7 @@ C#
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/jogo-da-velha-csharp.git
+git clone git clone https://github.com/Godoyzera659/jogo-da-velha-em-terminal.git
 
 
 Acesse a pasta do projeto:
